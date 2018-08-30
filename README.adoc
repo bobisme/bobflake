@@ -1,0 +1,2 @@
+64-bit unique IDs
+Inspired by twitter's old Snowflake spec & Sony's Sonyflake adaptation.
